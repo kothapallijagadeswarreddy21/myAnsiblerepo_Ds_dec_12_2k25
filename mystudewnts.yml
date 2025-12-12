@@ -1,0 +1,22 @@
+---
+- myStudents:
+  - name: anil
+    phone: 8985975972
+    address:
+       door: h-79
+       street: gandhi nagar
+       pin: 500085
+       
+  - name: jagan
+    phone: 9177189902
+    address: 
+        door: m-45
+        street: sr nagar
+        pin: 500078
+
+  - name: teja
+    phone: 9440822935
+    address: 
+          door: s-89
+          street: jayanagar
+          pin: 515581
